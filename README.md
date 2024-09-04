@@ -2,7 +2,9 @@
 
 <br>
 
-#### Main page for urani.trade. Author: [bt3gl](https://github.com/von-steinkirch).
+#### Main page and blog for urani.trade. 
+
+#### Author: [bt3gl](https://github.com/von-steinkirch).
 
 <br>
 
