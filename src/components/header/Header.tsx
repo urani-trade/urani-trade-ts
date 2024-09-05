@@ -168,7 +168,7 @@ export default function Header() {
             
             <Navbar.Link href="https://swap.urani.trade/" >
               <Button variant="secondary" className="text-lg px-6 py-6">
-                Launch Urani Swap
+                Launch Urani App
               </Button>
             </Navbar.Link>
             
