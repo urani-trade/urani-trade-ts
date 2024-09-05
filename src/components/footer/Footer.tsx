@@ -1,5 +1,3 @@
-import Image from "next/image";
-
 export default function Footer() {
   return (
     <footer className="bg-purple dark:bg-gray-900 text-purple-light">
@@ -59,17 +57,6 @@ export default function Footer() {
               >
                 <span>
                   <b>Values</b>
-                </span>
-              </a>
-
-              <a
-                href="https://github.com/urani-trade"
-                className="hover:text-decoration-line text-sm sm:text-base sm:mr-4"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                <span>
-                  <b>Developers</b>
                 </span>
               </a>
               
