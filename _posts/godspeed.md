@@ -1,6 +1,6 @@
 ---
 title: "Godspeed You! Purple Emperors"
-excerpt: "Summer '24 is over. We are now shifting gears and open-sourcing some former projects."
+excerpt: "Summer '24 has ended, and we are now shifting gears. In this post, we highlight the projects we are open-sourcing."
 coverImage: "/assets/space/7.webp"
 date: "2024-09-02T11:11:11.322ZZ"
 author:
