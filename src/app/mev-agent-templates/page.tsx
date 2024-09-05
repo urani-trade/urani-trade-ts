@@ -86,56 +86,56 @@ export default async function PageAgentTemplate() {
           <div className="my-4 md:my-6 grid md:grid-cols-2 lg:grid-cols-4 text-purple text-center">
             <LightCard
               title="Basic Arbitrage"
-              badge={<Badge text="Mid-2024" size="sm" />}
+              badge={<Badge text="soon" size="sm" />}
               icon1="balance"
               link="/soon"
               description="Understand and deploy basic arbitrage algorithms."
             />
             <LightCard
               title="Liquidity Sources"
-              badge={<Badge text="Mid-2024+" size="sm" />}
+              badge={<Badge text="soon" size="sm" />}
               icon1="water_drop"
               link="/soon"
               description="Learn how to add several liquidity sources to your graph."
             />
             <LightCard
               title="P2P Matches"
-              badge={<Badge text="Late-2024+" size="sm" />}
+              badge={<Badge text="soon" size="sm" />}
               icon1="people"
               link="/soon"
               description="Understand how Urani's peer-to-peer algorithm is implemented and customize this strategy."
             />
             <LightCard
               title="Ring Matches"
-              badge={<Badge text="Late-2024+" size="sm" />}
+              badge={<Badge text="soon" size="sm" />}
               icon1="stars"
               link="/soon"
               description="Understand how Urani's advanced ring matches are implemented and customize these strategies."
             />
             <LightCard
               title="Private Liquidity"
-              badge={<Badge text="2025+" size="sm" />}
+              badge={<Badge text="soon" size="sm" />}
               icon1="request_quote"
               link="/soon"
               description="Market makers can deploy Urani's novel private liquidity algorithm."
             />
             <LightCard
               title="Quant and Statistics"
-              badge={<Badge text="2025+" size="sm" />}
+              badge={<Badge text="soon" size="sm" />}
               icon1="data_thresholding"
               link="/soon"
               description="Learn quantitative and statistical methods for advanced strategies."
             />
             <LightCard
               title="Advanced Arbitrage"
-              badge={<Badge text="2025+" size="sm" />}
+              badge={<Badge text="soon" size="sm" />}
               icon1="account_balance"
               link="/soon"
               description="Learn the basics to implement your own advanced statistical arbitrage strategies."
             />
             <LightCard
               title="AI-Centric Agents"
-              badge={<Badge text="2025+" size="sm" />}
+              badge={<Badge text="soon" size="sm" />}
               icon1="terminal"
               link="/soon"
               description="Urani's advanced research and development."
