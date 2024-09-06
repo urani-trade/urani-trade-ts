@@ -45,7 +45,7 @@ export default function WhySolana() {
               Urani Protocol
             </p>
             <p className="text-1xl md:text-2xl italic">
-            Onchain-agnostic orderbook conducting batch competitions among agents for the largest surplus, efficiency, and ingenuity. 
+            Onchain-agnostic orderbook conducting batch competitions among agents for the largest surplus and efficiency.
             The protocol provides various strategies to ensure fairness, accessibility, and meritocracy. 
             <b><a href="https://docs.urani.trade/urani-protocol/urani-protocol-overview" target="_blank" rel="noopener noreferrer"> Learn more</a></b>.
               
