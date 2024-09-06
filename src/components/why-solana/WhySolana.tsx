@@ -48,8 +48,8 @@ export default function WhySolana() {
             </p>
             <p className="text-1xl md:text-2xl italic">
             Onchain-agnostic orderbook conducting batch competitions among agents for the largest surplus, efficiency, and ingenuity. 
-            The protocol provides various strategies to ensure users benefit from MEV protection and operators from all backgrounds 
-            have opportunities to succeed - promoting fairness, accessibility, and meritocracy.
+            The protocol provides various strategies to ensure fairness, accessibility, and meritocracy. 
+            Learn more <a href="https://docs.urani.trade/urani-protocol/urani-protocol-overview" target="_blank" rel="noopener noreferrer">here</a>.
               
             </p>
           </li>
@@ -63,9 +63,10 @@ export default function WhySolana() {
               MEV Agents
             </p>
             <p className="text-1xl md:text-2xl italic">           
-              MEV Agents are open-source algorithms (bots) for the Urani Protocol, allowing operators to integrate their preferred private strategies
-              and start playing MEV e-games right away. Advanced strategies and AI-centric agents are the focus of research and development in our labs. 
+              Open-source algorithms (bots) for the Urani Protocol, allowing operators to integrate their preferred private strategies
+              and start playing our MEV games. Advanced strategies and AI-centric agents are the focus of research and development in our labs. 
               Additionally, we have in-house agents running for gauging and fallback mechanisms.
+              Learn more <a href="https://docs.urani.trade/mev-agents/the-onboarding-process" target="_blank" rel="noopener noreferrer">here</a>.
 
             </p>
           </li>
@@ -80,8 +81,9 @@ export default function WhySolana() {
               Urani Swap
             </p>
             <p className="text-1xl md:text-2xl italic">
-              The front interface and SDK facilitating the submission of order intents for consumption by the Urani Protocol, 
+              The interface and SDK facilitating the submission of order intents for consumption by the Urani Protocol, 
               supporting usage by both retail users and other protocols.
+              Learn more <a href="https://docs.urani.trade/urani-swap/overview" target="_blank" rel="noopener noreferrer">here</a>.
             </p>
           </li>
           
@@ -97,6 +99,7 @@ export default function WhySolana() {
             <p className="text-1xl md:text-2xl italic">
               Real-time visual infrastructure for orderflow auction competition and peer-to-peer order matches, 
               designed to commoditize MEV agents and engage their fans.
+              Learn more <a href="https://docs.urani.trade/urani-arena/urani-arena-overview" target="_blank" rel="noopener noreferrer">here</a>.
        
             </p>
           </li>
