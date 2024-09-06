@@ -54,6 +54,24 @@ export default function WhySolana() {
             </p>
           </li>
 
+
+          <li className="mb-8">
+            <p
+              className={`inline-block text-2xl md:text-3xl font-bold ${
+                highlightVisible ? "bg-highlight animate-highlight" : ""
+              }`}
+            >
+              Urani Swap
+            </p>
+            <p className="text-1xl md:text-2xl">
+              <i>The interface and SDK facilitating the submission of order intents for consumption by the Urani Protocol, 
+              supporting usage by both retail users and other protocols.</i>
+              Learn more <a href="https://docs.urani.trade/urani-swap/overview" target="_blank" rel="noopener noreferrer">here</a>.
+            </p>
+          </li>
+          
+
+          
           <li className="mb-8">
             <p
               className={`inline-block text-2xl md:text-3xl font-bold ${
@@ -71,21 +89,6 @@ export default function WhySolana() {
             </p>
           </li>
 
-          
-          <li className="mb-8">
-            <p
-              className={`inline-block text-2xl md:text-3xl font-bold ${
-                highlightVisible ? "bg-highlight animate-highlight" : ""
-              }`}
-            >
-              Urani Swap
-            </p>
-            <p className="text-1xl md:text-2xl italic">
-              The interface and SDK facilitating the submission of order intents for consumption by the Urani Protocol, 
-              supporting usage by both retail users and other protocols.
-              Learn more <a href="https://docs.urani.trade/urani-swap/overview" target="_blank" rel="noopener noreferrer">here</a>.
-            </p>
-          </li>
           
 
           <li className="mb-8">
