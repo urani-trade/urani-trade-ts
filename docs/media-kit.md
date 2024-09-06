@@ -4,4 +4,4 @@
 
 
 1. Create the new `media-kit.zip`.
-2. Upload this file **[here](public/logos)**.
+2. Upload this file **[here](../public/logos)**.

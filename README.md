@@ -10,7 +10,7 @@
 <br>
 <br>
 
-#### 👉🏼 Documentation on [local developer setup](docs/setup.md).
+#### 👉🏼 [Documentation on local developer setup](docs/setup.md).
 
 #### 👉🏼 [Instructions on how to add new blog posts](/docs/blogging.md).
 
