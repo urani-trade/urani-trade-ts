@@ -65,7 +65,7 @@ You can also explore it at <b><a href="https://swap.urani.trade/" target="_blank
 
 <br>
 
-### <b><a href="https://github.com/urani-trade/orderbook-poc-ts" target="_blank">Orderbook Demo PoC</a></b> (TypeScript), created by <b><a href="https://github.com/0xDualCube" target="_blank">Gman</a></b> (aka <b><a href="https://github.com/zxSage" target="_blank">Sage)</a></b>
+### <b><a href="https://github.com/urani-trade/urani-orderbook-mvp-ts" target="_blank">Urani Ordebook MVP</a></b> (TypeScript), created by <b><a href="https://github.com/0xDualCube" target="_blank">Gman</a></b> (aka <b><a href="https://github.com/zxSage" target="_blank">Sage)</a></b>
 
 <br>
 
@@ -73,13 +73,14 @@ You can also explore it at <b><a href="https://swap.urani.trade/" target="_blank
   <img src="/assets/blog/preview/orderbook.webp" align="center" style="border: 1px transparent solid; border-radius: 45px; "/>
 </p>
 
+
 <br>
 
 ---
 
 <br>
 
-### <b><a href="https://github.com/urani-trade/urani-arena-graph-ts" target="_blank">Urani Graph Arena</a></b> (TypeScript), created by <b><a href="https://github.com/0xDualCube" target="_blank">Gman</a></b> (aka <b><a href="https://github.com/zxSage" target="_blank">Sage)</a></b>
+### <b><a href="https://github.com/urani-trade/urani-arena-mvp-ts" target="_blank">Urani Arena MVP</a></b> (TypeScript), created by <b><a href="https://github.com/0xDualCube" target="_blank">Gman</a></b> (aka <b><a href="https://github.com/zxSage" target="_blank">Sage)</a></b>
 
 <br>
 
