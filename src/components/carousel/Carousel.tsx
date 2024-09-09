@@ -219,7 +219,7 @@ export default function Carousel() {
         </Link>
 
         <Link href="/mev-agent-templates">
-          <Button size="lg">Customize a MEV Agent Template</Button>
+          <Button size="lg">Check out our Trade App (alpha)</Button>
         </Link>
       </div>
     </div>
