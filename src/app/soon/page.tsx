@@ -1,10 +1,8 @@
 "use client";
-
 import Footer from "@/components/footer/Footer";
 import Header from "@/components/header/Header";
 import Link from "next/link";
 import { architype_bayer } from "@/app/fonts/config";
-
 export default function Soon() {
   return (
     <div className="flex flex-col justify-between min-h-screen">
@@ -19,6 +17,9 @@ export default function Soon() {
           (meanwhile,{" "}
           <Link href="/signup" className="underline">
             sign up as a MEV agent operator
+          </Link> or {" "}
+          <Link href="https://www.urani.app/" className="underline">
+            try our app
           </Link>
           )
         </h3>

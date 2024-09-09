@@ -6,7 +6,7 @@ ogImage:
 
 <br>
 
-#### Urani's second in-house agent, written in Rust, will be available in 2025.
+### Urani's second in-house agent, written in Rust, will be available in 2025.
 
 <br>
 

@@ -8,7 +8,7 @@ ogImage:
 
 <br>
 
-> _Join our group of DeFi scientists and engineers pioneering agentic design and toxic-MEV minimization at the application layer._
+> _Join our group of DeFi scientists and engineers pioneering agentic design, toxic-MEV minization, and their gamification._
 
 <br>
 
