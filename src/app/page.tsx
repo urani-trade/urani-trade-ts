@@ -27,8 +27,7 @@ export default function Home() {
             <br /> <br />
           </h4>
           <h5 className="font-bold text-center text-cream-dark text-md md:text-2xl px-10 max-w-2xl">
-            Research and Development of Products for <br />
-            DeFi Gamification and Toxic-MEV Minimization 
+           You are all monsters and today I kill myself.
           </h5>
         </div>
 
