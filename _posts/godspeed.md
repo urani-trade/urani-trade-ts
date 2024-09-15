@@ -38,19 +38,6 @@ Additionally, we open-sourced several of our projects this summer:
 
 ---
 
-<br>
-
-### <b>Our <a href="https://github.com/urani-trade/urani-trade-ts" target="_blank">Urani Trade website</a></b> (TypeScript), created by <b><a href="https://github.com/von-steinkirch" target="_blank">bt3gl</a></b>
-
-<br>
-
-<p align="center">
-  <img src="/assets/blog/preview/trade.webp" align="center" style="border: 1px transparent solid; border-radius: 45px; "/>
-</p>
-
-<br>
-
----
 
 <br>
 
