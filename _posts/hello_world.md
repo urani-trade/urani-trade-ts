@@ -1,6 +1,6 @@
 ---
 title: "Hello World"
-excerpt: "Welcome to Urani, an intent-based suite on Solana. We are gamifying decentralized finance to enable uniquely secure trading by transforming toxic MEV incentives into free market opportunities."
+excerpt: "Welcome to Urani, an intent-based suite on Solana. We are gamifying decentralized finance to enable uniquely secure trading by transforming toxic-MEV incentives into free market opportunities."
 coverImage: "/assets/space/2.webp"
 date: "2024-05-06T11:11:11.322Z"
 author:
