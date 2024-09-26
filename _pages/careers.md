@@ -16,7 +16,7 @@ ogImage:
 
 ### Open Roles
 
-<strong><a href="https://urani.notion.site/MEV-Scientist-Engineer-2466db49e8024e5a996a760d0ed9df0b" target="_blanket">MEV Scientist Engineers</a></strong>
+<strong><i>At this time, we don’t have any openings.</i></strong>
 
 
 <br>
