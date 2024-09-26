@@ -16,17 +16,3 @@
 
 #### 👉🏼 [Instructions on how to update the media kit](/docs/media-kit.md).
 
-<br>
-
----
-
-### License and Contributing
-
-<br>
-
-This project is distributed under the **[Apache 2.0 license](https://www.apache.org/licenses/LICENSE-2.0)**. 
-
-You are welcome to contribute. See the guidelines **[here](docs/CONTRIBUTING.md)**.
-
-<br>
-
