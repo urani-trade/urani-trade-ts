@@ -18,7 +18,7 @@ export default function Home() {
       <main className="flex min-h-screen flex-col items-center justify-between">
         <div className="flex flex-col items-center">
           <h3
-            className={`${architype_bayer.className} p-6 pl-2 tracking-tighter md:mt-16 font-medium text-7xl sm:text-9xl md:text-[10rem] lg:text-[18rem]`}
+            className={`${architype_bayer.className} p-6 pl-2 tracking-tighter md:mt-16 font-medium text-6xl sm:text-9xl md:text-[10rem] lg:text-[18rem]`}
           >
             urani.trade
           </h3>
