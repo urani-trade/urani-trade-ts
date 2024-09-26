@@ -99,20 +99,6 @@ Additionally, we open-sourced several of our projects this summer:
 
 <br>
 
-### <b><a href="https://github.com/urani-trade/urani-public-docs" target="_blank">Our public docs at Gitbooks</a></b>, created by <b><a href="https://github.com/von-steinkirch" target="_blank">bt3gl</a></b>
-
-<br>
-
-<p align="center">
-  <img src="/assets/blog/preview/gitbook.webp" align="center" style="border: 1px transparent solid; border-radius: 45px; "/>
-</p>
-
-<br>
-
----
-
-<br>
-
 ### <b><a href="https://github.com/urani-trade/solana-mev-literature" target="_blank">Solana MEV literature</a></b>, curated by <b><a href="https://github.com/von-steinkirch" target="_blank">bt3gl</a></b>
 
 <br>
