@@ -59,16 +59,6 @@ export default function Footer() {
                   <b>Values</b>
                 </span>
               </a>
-
-              <a
-                href="https://jewandwitch.com/pages/swag"
-                className="hover:text-decoration-line text-sm sm:text-base sm:mr-4"
-                 target="_blank"
-              >
-                <span>
-                  <b>Swag</b>
-                </span>
-              </a>
               
             </div>
           </div>
