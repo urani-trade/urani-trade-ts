@@ -18,7 +18,7 @@ export default function Soon() {
           <Link href="/signup" className="underline">
             sign up as a MEV agent operator
           </Link> or {" "}
-          <Link href="https://www.urani.app/" className="underline">
+          <Link href="https://swap.urani.trade/" className="underline">
             try our app
           </Link>
           )
