@@ -18,7 +18,7 @@ ogImage:
 <br>
 
 
-As we shift gears for fall, we would like to highlight that our <b><a href="https://urani.app/" target="_blank">urani.app</a></b> is now live (in its alpha version)! 
+As we shift gears for fall, we would like to highlight that our <b><a href="https://swap.urani.trade/" target="_blank">swap</a></b> is now live (in its alpha version).
 
 Additionally, we open-sourced several of our projects this summer:
 
