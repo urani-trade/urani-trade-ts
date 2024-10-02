@@ -166,7 +166,7 @@ export default function Header() {
 
             <div className="grow"></div>
             
-            <Navbar.Link href="https://urani.app" >
+            <Navbar.Link href="https://swap.urani.trade" >
               <Button variant="secondary" className="text-lg px-6 py-6">
                 Launch Urani App
               </Button>
