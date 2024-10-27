@@ -14,7 +14,7 @@ ogImage:
 
 <br>
 
-Check out the <strong><a href="https://ethereum.org/en/developers/" target="_blank">Ethereum Foundation's developer resources</a></strong> to get started, and our <strong><a href="https://github.com/go-outside-labs" target="_blank">repositories at go-outside-labs</a></strong> for several open-source examples.
+Check out the <strong><a href="https://ethereum.org/en/developers/" target="_blank">Ethereum Foundation's developer resources</a></strong> to get started, and our <strong><a href="https://github.com/autistic-symposium" target="_blank">repositories at the Autistic Symposium</a></strong> for several open-source examples.
 
 <br>
 
