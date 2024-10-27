@@ -109,7 +109,7 @@ We are here to create surplus, not wars. Many of us are vegetarians, and <b><a h
 <br>
 
 <div class="quote-box"> 
-Our CEO, <b><a href="https://github.com/von-steinkirch" target="_blank">bt3gl</a></b>, coined the term "neo-cypherpunk" a few years ago in her work at <b><a href="https://github.com/go-outside-labs/neo-cypherpunk-toolkit" target="_blank">Go Outside Labs</a></b> (one of the foundations for what Urani stands for, as <b><a href="https://www.urani.trade/values" target="_blank">ownership, privacy, and meritocracy are some of our core values</a></b>).
+Our CEO, <b><a href="https://github.com/von-steinkirch" target="_blank">bt3gl</a></b>, coined the term "neo-cypherpunk" a few years ago in her work at the <b><a href="https://github.com/autistic-symposium/autistic-cypherpunk-toolkit" target="_blank">Autistic Symposium / Go Outside Labs / Midsummer </a></b> (one of the foundations for what Urani stands for, as <b><a href="https://www.urani.trade/values" target="_blank">ownership, privacy, and meritocracy are some of our core values</a></b>).
 
 Interestingly, <b><a href="https://vitalik.eth.limo/general/2024/05/29/l2culture.html" target="_blank">other cool cats</a></b> are embracing the movement. Can we envision a future where every technical island autonomously and seamlessly connects with each other?
 
