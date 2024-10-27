@@ -55,7 +55,7 @@ Additionally, we open-sourced several of our projects this summer:
 
 <br>
 
-### <b><a href="https://github.com/urani-trade/urani-orderbook-mvp-ts" target="_blank">Urani Ordebook MVP for the Colosseum demo,</a></b> (TypeScript), created by <b><a href="https://github.com/0xDualCube" target="_blank">Gman</a></b> (aka <b><a href="https://github.com/zxSage" target="_blank">Sage)</a></b>
+### <b><a href="https://github.com/urani-trade/urani-orderbook-mvp-ts" target="_blank">Urani Ordebook MVP for the Colosseum demo</a></b> (TypeScript), created by <b><a href="https://github.com/0xDualCube" target="_blank">Gman</a></b> (aka <b><a href="https://github.com/zxSage" target="_blank">Sage)</a></b>
 
 <br>
 
