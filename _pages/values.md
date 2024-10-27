@@ -25,4 +25,4 @@ Our focus extends beyond immediate gains. We build with an eye on longevity, lay
 
 ### 4. Ownership, Privacy, and Meritocracy
 
-We are <b><a href="https://github.com/go-outside-labs" target="_blank">neo-cypherpunks</b></a> at heart. We hold dear the principles of ownership, privacy, and personal freedom, embedding them into the fabric of all we do.
+We are <b><a href="https://github.com/autistic-symposium" target="_blank">neo-cypherpunks</b></a> at heart. We hold dear the principles of ownership, privacy, and personal freedom, embedding them into the fabric of all we do.
