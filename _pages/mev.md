@@ -57,4 +57,4 @@ Additionally, we coined the term "MEV agents" to distinguish "healthy" bots from
 ➡️ More information on how Urani helps minimize toxic-MEV is available in <strong><a href="https://docs.urani.trade/urani-swap/technical-considerations/mev-on-solana" target="_blank">our docs</a></strong>.<br>
 ➡️ Visualize sandwich attacks on Solana with <strong><a href="https://sandwiched.me/" target="_blank">sandwiched.me</a></strong> and on Ethereum with <strong><a href="https://eigenphi.io/">Eigenphi</a></strong>.<br>
 ➡️ To explore MEV and fee markets on Solana, check out <strong><a href="https://github.com/urani-labs/solana-mev-literature" target="_blank">our curated library</a></strong>.<br>
-➡️ To delve deeper into MEV in general, explore <strong><a href="https://github.com/go-outside-labs/mev-toolkit" target="_blank">go-outside-labs's toolkit</a></strong>
+➡️ To delve deeper into MEV in general, explore the <strong><a href="https://github.com/autistic-symposium/mev-toolkit" target="_blank">Autistic Symposium's toolkit</a></strong>
