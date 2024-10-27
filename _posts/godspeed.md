@@ -55,7 +55,7 @@ Additionally, we open-sourced several of our projects this summer:
 
 <br>
 
-### <b><a href="https://github.com/urani-trade/urani-orderbook-mvp-ts" target="_blank">Urani Ordebook MVP</a></b> (TypeScript), created by <b><a href="https://github.com/0xDualCube" target="_blank">Gman</a></b> (aka <b><a href="https://github.com/zxSage" target="_blank">Sage)</a></b>
+### <b><a href="https://github.com/urani-trade/urani-orderbook-mvp-ts" target="_blank">Urani Ordebook MVP for the Colosseum demo,</a></b> (TypeScript), created by <b><a href="https://github.com/0xDualCube" target="_blank">Gman</a></b> (aka <b><a href="https://github.com/zxSage" target="_blank">Sage)</a></b>
 
 <br>
 
@@ -70,7 +70,7 @@ Additionally, we open-sourced several of our projects this summer:
 
 <br>
 
-### <b><a href="https://github.com/urani-trade/urani-arena-mvp-ts" target="_blank">Urani Arena MVP</a></b> (TypeScript), created by <b><a href="https://github.com/0xDualCube" target="_blank">Gman</a></b> (aka <b><a href="https://github.com/zxSage" target="_blank">Sage)</a></b> and  <b><a href="https://github.com/KolosAnd" target="_blank">Kolos</a></b>
+### <b><a href="https://github.com/urani-trade/urani-arena-mvp-ts" target="_blank">Urani Arena MVP</a></b> (TypeScript), created by <b><a href="https://github.com/0xDualCube" target="_blank">Gman</a></b> (aka <b><a href="https://github.com/zxSage" target="_blank">Sage)</a></b>, <b><a href="https://github.com/KolosAnd" target="_blank">Kolos</a></b>, and <b><a href="https://github.com/von-steinkirch" target="_blank">bt3gl</a></b>
 
 <br>
 
