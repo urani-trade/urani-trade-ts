@@ -75,7 +75,7 @@ Within less than two months of its existence, Urani <strong><a href="https://twi
 <br>
 
 <div class="quote-box"> 
-Fun fact: over a year ago, bt3gl started working on a prototype idea that would eventually become Urani. It was called <strong><a href="https://github.com/go-outside-labs/cyph3rs-vue-js" target="_blank">cyphers</a></strong>, an initial concept for a marketplace for searchers and protocols. 
+Fun fact: over a year ago, bt3gl started working on a prototype idea that would eventually become Urani. It was called <strong><a href="https://github.com/autistic-symposium/cyph3rs-vue-js" target="_blank">cyphers</a></strong>, an initial concept for a marketplace for searchers and protocols. 
 
 At that time, the idea was still in its early stages.
 </div>
@@ -108,7 +108,7 @@ When we laid the foundation for Urani, our values were unmistakably clear:
 1. **Deliberate Action, Resolute Impact:** With a blend of caution and determination, we navigate our journey, ensuring each step forward is purposeful and steadfast.
 2. **Trailblazers, Not Followers:** We defy the norms and refuse to conform to the status quo, forging new trails in the world of crypto and beyond.
 3. **Sustainable Foundations, Positive Sum Games:** Our focus extends beyond immediate gains. We build with an eye on longevity, laying foundations that endure and thrive over time while fostering positive sum outcomes.
-4. **Ownership, Privacy, and Meritocracy:** We are <b><a href="https://github.com/go-outside-labs" target="_blank">neo-cypherpunks</b></a> at heart. We hold dear the principles of ownership, privacy, and personal freedom, embedding them into the fabric of all we do.
+4. **Ownership, Privacy, and Meritocracy:** We are <b><a href="https://github.com/autistic-symposium" target="_blank">cypherpunks</b></a> at heart. We hold dear the principles of ownership, privacy, and personal freedom, embedding them into the fabric of all we do.
 
 <br>
 
