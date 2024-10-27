@@ -14,7 +14,7 @@ ogImage:
 <div class="quote-box">
 In this discussion, we target the question: <strong><i>'How do we build DeFi agents that maximize cumulative rewards as realized profit utilizing Markov Decision Process?'</i></strong>.
 
-This work was originally published on <a href="https://mirror.xyz/go-outside.eth/DKaWYobU7q3EvZw8x01J7uEmF_E8PfNN27j0VgxQhNQ" target="_blank"><strong>April 18th, 2023, by bt3gl at Go-Outside Labs</a></strong>.
+This work was originally published on <a href="https://mirror.xyz/go-outside.eth/DKaWYobU7q3EvZw8x01J7uEmF_E8PfNN27j0VgxQhNQ" target="_blank"><strong>April 18th, 2023, by bt3gl</a></strong>.
 </div>
 
 <br>
