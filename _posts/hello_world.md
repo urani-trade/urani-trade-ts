@@ -78,8 +78,6 @@ Within less than two months of its existence, Urani <strong><a href="https://twi
 Fun fact: over a year ago, bt3gl started working on a prototype idea that would eventually become Urani. It was called <strong><a href="https://github.com/autistic-symposium/cyph3rs-vue-js" target="_blank">cyphers</a></strong>, an initial concept for a marketplace for searchers and protocols. 
 
 At that time, the idea was still in its early stages.
-
-(Ps: a fun urban legend is that this project inspired the creation of the <strong><a href="https://www.coingecko.com/en/coins/pepe" target="_blank">$PEPE coin</a></strong>)
 </div>
 
 <br>
@@ -88,7 +86,14 @@ At that time, the idea was still in its early stages.
   <img src="/assets/blog/hello-world/cyph3rs.png" align="center" style="border: 1px transparent solid; border-radius: 45px; "/>
 </p>
 
+
 <br>
+<br>
+
+<div class="quote-box"> 
+(Ps: a fun urban legend is that this project inspired the creation of the <strong><a href="https://www.coingecko.com/en/coins/pepe" target="_blank">$PEPE coin</a></strong>)
+</div>
+
 <br>
 
 ---
