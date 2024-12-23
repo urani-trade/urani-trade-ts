@@ -88,12 +88,12 @@ At that time, the idea was still in its early stages.
 
 
 <br>
-<br>
 
 <div class="quote-box"> 
-(Ps: a fun urban legend is that this project inspired the creation of the <strong><a href="https://www.coingecko.com/en/coins/pepe" target="_blank">$PEPE coin</a></strong>)
+(Ps: a fun urban legend is that this project inspired the creation of <strong><a href="https://www.coingecko.com/en/coins/pepe" target="_blank">$PEPE coin</a></strong>)
 </div>
 
+<br>
 <br>
 
 ---
