@@ -218,7 +218,7 @@ export default function Carousel() {
           <Button size="lg">Sign up as a MEV Agent Operator</Button>
         </Link>
 
-        <Link href="https://swap.urani.trade/">
+        <Link href="https://uraniswap.vonsteinkirch.com/">
           <Button size="lg">Check out our Trade App (alpha)</Button>
         </Link>
       </div>
