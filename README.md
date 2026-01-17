@@ -1,4 +1,4 @@
-## Website for urani.vonsteinkirch.com
+## urani.vonsteinkirch.com
 
 <br>
 
