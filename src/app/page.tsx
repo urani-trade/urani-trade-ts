@@ -32,7 +32,7 @@ export default function Home() {
           </h5>
         </div>
 
-        <a href="https://uraniswap.vonsteinkirch.com/" rel="noopener noreferrer">
+        <a href="https://uraniswap.nullstar.fun" rel="noopener noreferrer">
           <Button
             className="my-12 md:my-20 text-xl"
             variant="secondary"
